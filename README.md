@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi 👋, I'm Chetan Verma
 
-<!--
-**chetanverrma/chetanverrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI & Robotics Student | 💻 Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm a B.Tech AI & Robotics student interested in Artificial Intelligence, Robotics, Python, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and exploring new technologies
+💡 Building projects to turn ideas into reality
+🚀 Improving my coding and problem-solving skills
+🎯 Goal: Build useful and innovative technology
+
+🛠️ Tech I'm Exploring
+
+- 🐍 Python
+- 🤖 Artificial Intelligence
+- 🦾 Robotics
+- 💻 Programming & Software Development
+- 🔧 Git & GitHub
+
+📂 What You'll Find Here
+
+This profile contains my learning journey, experiments, projects, and future work in AI, robotics, and technology.
+
+📫 Connect With Me
+
+- GitHub: "@chetanverrma" (https://github.com/chetanverrma)
+
+---
+
+⭐ Learning. Building. Improving. One project at a time.
