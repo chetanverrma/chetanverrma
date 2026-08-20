@@ -4,7 +4,7 @@ Hi 👋, I'm Chetan Verma
 
 I'm a B.Tech AI & Robotics student interested in Artificial Intelligence, Robotics, Python, and emerging technologies.
 
-🌱 Currently learning and exploring new technologies
+🌱 Currently learning and exploring new technologies 
 💡 Building projects to turn ideas into reality
 🚀 Improving my coding and problem-solving skills
 🎯 Goal: Build useful and innovative technology
